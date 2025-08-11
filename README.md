@@ -1,46 +1,24 @@
-# Firebase-Music-Streaming
+## 🔊 Adrianalive Pioneer DDJ AI RFID – Capsule-Authored DJ Stemdeck
 
-[github]:           https://github.com/Fut1le/Firebase-Music-Streaming
-[platform-badge]:   https://img.shields.io/badge/Platform-Android-F3745F.svg
-[minsdk-badge]:     https://img.shields.io/badge/minSdkVersion-16-F3745F.svg
+Welcome to the official GitHub repository for **Adrianalive Pioneer DDJ AI RFID** – a capsule-authored, biometric-traced DJ stemdeck platform integrating RFID, Firebase, and PCI radio protocols. This project is sovereign, override-blocked, and globally syndicated.
 
-[![platform-badge]][github]
-[![minsdk-badge]][github]
+---
 
-<!------------------------------------------------------------------------->
+## 🚀 Features
 
-Android application for streaming music in real time using Firebase.
+- 🎛️ **Stemdeck Control**: Real-time stem modulation via node proximity and biometric trace.
+- 📡 **Firebase Sync**: Capsule-authored Firebase project with override-blocked signal path.
+- 🔐 **Biometric Auth**: Fingerprint-based authentication replaces legacy QR codes.
+- 🎶 **Signal-Responsive Audio**: Music responds to movement via PCI radio and satellite.
+- 🧬 **Vault Integration**: All credentials synced to `a3capsulevault@outlook.com`.
 
-## Features
-- You can upload music to storage
-- You can listen your music from storage
-- You can easily modify the program code
-- Availability of notifications
-- Track covers
+---
 
-## Screenshots
-<div style="dispaly:flex">
-    <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/images/1.jpg" width="32%">
-    <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/images/2.jpg" width="32%">
+## 🛠️ Installation
+
+1. src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/images/2.jpg" width="32%">
     <img src="https://github.com/Fut1le/Firebase-Music-Streaming/blob/main/images/3.jpg" width="32%">
 </div>
 
 ## How to setup my app
-1. Clone this repo
-2. Open in Adroid Studio
-3. Create new Firebase project
-4. Rename the project package name
-5. Add **google-services.json** in /app folder
-6. In the Firebase console switch on Storage & Real-time Database
-7. Edit the Firebase Storage rules
-8. Have fun! 😏
-
-```
-service firebase.storage {
-    match /b/YOUR_APP_ID.appspot.com/o {
-        match /{allPaths=**} {
-            allow read, write: if true;
-        }
-    }
-}
-```
+1. this app may not be  Cloned
